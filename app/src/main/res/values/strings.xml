@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ComposeActivity</string>
+    <string name="title_activity_hello_compose_tutorial1st">HelloComposeActivityTutorial_1st
+    </string>
+    <string name="title_activity_some_composables_tutorial2nd">SomeComposablesActivityTutorial_2nd
+    </string>
+</resources>

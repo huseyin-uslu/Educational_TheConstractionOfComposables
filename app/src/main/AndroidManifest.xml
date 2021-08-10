@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.firstprojects.composeactivity">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ComposeActivity">
+        <activity
+            android:name=".otherTutorials.SomeComposablesActivityTutorial_2nd"
+            android:exported="true"
+            android:label="@string/title_activity_some_composables_tutorial2nd"
+            android:theme="@style/Theme.ComposeActivity.NoActionBar" />
+        <activity
+            android:name=".otherTutorials.HelloComposeActivityTutorial_1st"
+            android:exported="true"
+            android:label="@string/title_activity_hello_compose_tutorial1st"
+            android:theme="@style/Theme.ComposeActivity.NoActionBar" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.ComposeActivity.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
