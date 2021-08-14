@@ -8,4 +8,7 @@ tutorial link : https://www.youtube.com/watch?v=qvDo0SKR8-k //
 
 ________________________________________________________
 <img width="481" alt="jetpack-compose-basics" src="https://user-images.githubusercontent.com/81476500/129431781-ca814289-c286-41fb-8c2d-bb55f9df370a.PNG">
-![jetpack-compose-basics](https://user-images.githubusercontent.com/81476500/129431782-28634757-279e-4bd7-b7f4-9db6bc651d75.gif)
+
+________________________________________________________
+![jetpack-compose-basics](https://user-images.githubusercontent.com/81476500/129431801-9d51e87d-b719-4c53-b58c-f1354342e71b.gif)
+
