@@ -1,5 +1,5 @@
 # Educational_TheConstractionOfComposables
-In this project , I've declarated some sort of things about how to build an app by using jetpack compose in kotlin. I'll keep updating the new things I will learn.
+In this project , I've made a declaration of some sort of things about how to build an app by using jetpack compose in kotlin. I'll keep updating the new things I will learn.
 
 # Tutorial 2nd
 -> In this repository , I've shared the tutorial code of android developer official youtube with you.
